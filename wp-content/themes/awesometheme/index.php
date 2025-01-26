@@ -6,6 +6,7 @@ if (have_posts()):
         the_post(); ?>
         <hr>
         <h2><?php the_title(); ?></h2>
+        <div class="thumbnail-img"><?php the_post_thumbnail(); ?></div>
         <small>Posted on : <?php the_time('F j, Y'); ?></small>&nbsp;
         <?php the_category(); ?></small>
         <br>

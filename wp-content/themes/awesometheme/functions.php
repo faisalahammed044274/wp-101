@@ -25,12 +25,17 @@ function awesome_script_enqueue()
 add_action('wp_enqueue_scripts', 'awesome_script_enqueue');
 
 // Add theme setup function
-function awesome_theme_setup() {
+function awesome_theme_setup()
+{
     // Add theme features
     add_theme_support('menus');
-    register_nav_menu('primary','Primary Header Navigation');
-    register_nav_menu('secondary','Secondary footer Navigation');
+    register_nav_menu('primary', 'Primary Header Navigation');
+    register_nav_menu('secondary', 'Secondary footer Navigation');
 }
 
 // Hook the setup function to 'after_setup_theme'
 add_action('after_setup_theme', 'awesome_theme_setup');
+
+add_theme_support('custom-background');
+add_theme_support('custom-header');
+add_theme_support('post-thumbnails');
