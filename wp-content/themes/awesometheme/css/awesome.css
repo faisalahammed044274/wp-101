@@ -5,3 +5,16 @@ html,body{
     background-color: rgb(166, 186, 204);
     color:#ffffff;
 }
+
+.post-categories li {
+    display: inline;
+}
+.menu{
+    list-style: none;
+    text-decoration: none;
+    text-align: center;
+}
+.menu li {
+	display: inline;
+    text-decoration: none;
+}
