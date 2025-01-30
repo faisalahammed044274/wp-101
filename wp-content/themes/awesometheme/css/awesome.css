@@ -7,8 +7,13 @@
 html,body{
     height: 100%;
     width: 100%;
-    background-color: rgb(166, 186, 204);
+    background-color: #464849;
     color:#ffffff;
+}
+
+#overlay{
+    border:2px solid #641e1e;
+    padding:12px;
 }
 
 .post-categories li {
@@ -26,4 +31,12 @@ hr{
 .menu li {
 	display: inline;
     text-decoration: none;
+}
+
+a{
+    text-decoration: none !important;
+    text-align: center;
+    text-transform: uppercase;
+    justify-items: space-between;
+    padding:0 25px;
 }
