@@ -154,7 +154,7 @@
                 <!-- layout-medium -->
             	<div class="layout-medium">
                 
-            		<div class="textwidget">crafted with <i class="pw-icon-heart"></i> <em>by</em> Pixelwars</div>
+            		<div class="textwidget">crafted with <i class="pw-icon-heart"></i> <em>by</em> FaisalWeb</div>
                 
                 </div>
             	<!-- layout-medium -->
