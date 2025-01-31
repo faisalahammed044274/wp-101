@@ -20,7 +20,8 @@
                     <!-- site-title : image-logo -->
                     <h1 class="site-title">
                         <a href="index.html" rel="home">
-                            <img src="images/site/logo.png" alt="logo">
+                            <!-- <img src="images/site/logo.png" alt="logo"> -->
+                             Faisal WEB
                         </a>
                     </h1>
                     <!-- site-title -->
@@ -172,28 +173,28 @@
     
 
     <!-- SCRIPTS -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
     <script>
 	   if (!window.jQuery) { 
 		  document.write('<script src="js/jquery-3.1.1.min.js"><\/script>'); 
 	   }
-	</script>
-    <script src="js/jquery-migrate-3.0.0.min.js"></script>
-    <script src="js/fastclick.js"></script>
-    <script src="js/jquery.fitvids.js"></script>
-    <script src="js/jquery.viewport.mini.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>    
-    <script src="js/jquery-validation/jquery.validate.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/jquery.isotope.min.js"></script>
-    <script src="js/jquery.magnific-popup/jquery.magnific-popup.min.js"></script>
-    <script src="js/jquery.fluidbox/jquery.fluidbox.min.js"></script>
-    <script src="js/owl-carousel/owl.carousel.min.js"></script>
-    <script src="js/selection-sharer/selection-sharer.js"></script>
-    <script src="js/socialstream.jquery.js"></script>
-    <script src="js/jquery.collagePlus/jquery.collagePlus.min.js"></script>
-    <script src="js/main.js"></script>
-    <script src="js/shortcodes/shortcodes.js"></script>
+	</script> -->
+    <!-- <script src="js/jquery-migrate-3.0.0.min.js"></script> -->
+    <!-- <script src="js/fastclick.js"></script> -->
+    <!-- <script src="js/jquery.fitvids.js"></script> -->
+    <!-- <script src="js/jquery.viewport.mini.js"></script> -->
+    <!-- <script src="js/jquery.waypoints.min.js"></script>     -->
+    <!-- <script src="js/jquery-validation/jquery.validate.min.js"></script> -->
+    <!-- <script src="js/imagesloaded.pkgd.min.js"></script> -->
+    <!-- <script src="js/jquery.isotope.min.js"></script> -->
+    <!-- <script src="js/jquery.magnific-popup/jquery.magnific-popup.min.js"></script> -->
+    <!-- <script src="js/jquery.fluidbox/jquery.fluidbox.min.js"></script> -->
+    <!-- <script src="js/owl-carousel/owl.carousel.min.js"></script> -->
+    <!-- <script src="js/selection-sharer/selection-sharer.js"></script> -->
+    <!-- <script src="js/socialstream.jquery.js"></script> -->
+    <!-- <script src="js/jquery.collagePlus/jquery.collagePlus.min.js"></script> -->
+    <!-- <script src="js/main.js"></script>
+    <script src="js/shortcodes/shortcodes.js"></script> -->
 
 </body>
 </html>
