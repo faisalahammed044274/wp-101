@@ -86,6 +86,12 @@ $table_prefix = 'wp_';
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
 define( 'WP_DEBUG', false );
+define( 'MULTISITE', true );
+define( 'SUBDOMAIN_INSTALL', false );
+define( 'DOMAIN_CURRENT_SITE', '127.0.0.1' );
+define( 'PATH_CURRENT_SITE', '/wp-101/' );
+define( 'SITE_ID_CURRENT_SITE', 1 );
+define( 'BLOG_ID_CURRENT_SITE', 1 );
 
 /* Add any custom values between this line and the "stop editing" line. */
 
