@@ -85,7 +85,7 @@ $table_prefix = 'wp_';
  *
  * @link https://developer.wordpress.org/advanced-administration/debug/debug-wordpress/
  */
-define( 'WP_DEBUG', false );
+define( 'WP_DEBUG', true );
 define( 'MULTISITE', true );
 define( 'SUBDOMAIN_INSTALL', false );
 define( 'DOMAIN_CURRENT_SITE', '127.0.0.1' );
